@@ -23,7 +23,7 @@
     "express-jwt": "^5.3.3",
     "multer": "^1.4.2",
     "mysql": "^2.18.1",
-    "nuxt": "^2.12.2",
+    "nuxt": "^2.15.8",
     "selenium-webdriver": "^4.0.0-alpha.7",
     "socket.io": "^2.3.0",
     "vue-masonry": "^0.11.8",
